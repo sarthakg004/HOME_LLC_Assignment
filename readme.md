@@ -37,7 +37,7 @@ performed feature selection using recursive feature elimination to find the most
 
 ## Model Building
 
-![index graph](resources/image.png)
+![index graph](resources/image3.png)
 
 SINCE OUR TARGET VARIABLE (HOME PRICE INDEX) FOLLOW AN ALMOST LINEAR PATTERN LINEAR REGRESSION IS A GOOD FIT
 
@@ -45,7 +45,7 @@ using linear regression the following metrics were achieved:
 Mean Squared Error: 0.0011643659387635447
 R-squared (R2) Score: 0.979326390978005
 
-![prediction plot](resources/image.png)
+![prediction plot](resources/image4.png)
 
 More over each individual Feature was used for prediction to see their relation with the target variable
 
