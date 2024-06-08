@@ -1,4 +1,4 @@
-DATE,interest_rates,population(in_thousand),employment2pop_ratio,unemployment_rate,gdp_per_capita,housing_unit(in_thousand),avr_rent,price_proxy
+DATE,interest_rates,population(in_thousand),employment2pop_ratio,unemployment_rate,gdp_per_capita,housing_unit(in_thousand),avg_rent,price_proxy
 1987-01-01,6.43,241857.0,61.0,6.6,37132.0,1774.0,121.2,63.965
 1987-04-01,6.37,242338.0,61.3,6.3,37454.0,1614.0,122.2,65.132
 1987-07-01,6.58,242908.0,61.6,6.1,37685.0,1575.0,123.0,66.507
